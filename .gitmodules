@@ -1,0 +1,3 @@
+[submodule "Maize"]
+	path = Maize
+	url = https://github.com/UBCAgroBot/Maize

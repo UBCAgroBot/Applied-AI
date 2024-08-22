@@ -9,4 +9,7 @@
 	url = https://github.com/UBCAgroBot/Weed-Detection
 [submodule "Grape-Clustering"]
 	path = Grape-Clustering
-	url = https://github.com/husanaulakh/Grape-Clustering
+	url = https://github.com/UBCAgroBot/Grape-Clustering
+[submodule "ROS"]
+	path = ROS
+	url = https://github.com/UBCAgroBot/ROS

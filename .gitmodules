@@ -3,10 +3,10 @@
 	url = https://github.com/UBCAgroBot/Maize
 [submodule "System-Architecture"]
 	path = System-Architecture
-	url = https://github.com/UBCAgroBot/Maize/System-Architecture
+	url = https://github.com/UBCAgroBot/System-Architecture
 [submodule "Weed-Detection"]
 	path = Weed-Detection
-	url = https://github.com/UBCAgroBot/Maize/Weed-Detection
+	url = https://github.com/UBCAgroBot/Weed-Detection
 [submodule "Grape-Clustering"]
 	path = Grape-Clustering
 	url = https://github.com/husanaulakh/Grape-Clustering.git

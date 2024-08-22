@@ -4,3 +4,6 @@
 [submodule "Grape-Clustering"]
 	path = Grape-Clustering
 	url = ../Grape-Clustering/
+[submodule "System-Architecture"]
+	path = System-Architecture
+	url = ../System-Architecture/

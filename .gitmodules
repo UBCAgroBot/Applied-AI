@@ -1,3 +1,6 @@
 [submodule "Maize"]
 	path = Maize
 	url = https://github.com/UBCAgroBot/Maize
+[submodule "Grape-Clustering"]
+	path = Grape-Clustering
+	url = ../Grape-Clustering/

@@ -7,3 +7,6 @@
 [submodule "Weed-Detection"]
 	path = Weed-Detection
 	url = https://github.com/UBCAgroBot/Maize/Weed-Detection
+[submodule "Grape-Clustering"]
+	path = Grape-Clustering
+	url = https://github.com/husanaulakh/Grape-Clustering.git

@@ -7,9 +7,9 @@
 [submodule "Weed-Detection"]
 	path = Weed-Detection
 	url = https://github.com/UBCAgroBot/Weed-Detection
-[submodule "Grape-Clustering"]
-	path = Grape-Clustering
-	url = https://github.com/UBCAgroBot/Grape-Clustering
+[submodule "Blueberry-Localization"]
+	path = Blueberry-Localization
+	url = https://github.com/UBCAgroBot/Blueberry-Localization
 [submodule "ROS"]
 	path = ROS
 	url = https://github.com/UBCAgroBot/ROS
